@@ -1,0 +1,11 @@
+{
+  "name": "jewlery",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "npm install --prefix webapp && npm run build --prefix webapp"
+  },
+  "author": "",
+  "license": "ISC"
+}

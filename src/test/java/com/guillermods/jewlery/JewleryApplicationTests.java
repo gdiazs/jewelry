@@ -1,4 +1,4 @@
-package com.guillermods.jewlery.jewlery;
+package com.guillermods.jewlery;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
