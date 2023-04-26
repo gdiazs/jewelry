@@ -24,7 +24,7 @@ function ShopingCartInvoice() {
       />
 
       <DataTable value={cartItems}>
-        <Column field="name" header="Producto"></Column>
+        <Column className="py-4" field="name" header="Producto"></Column>
         <Column field="description" header="Descripcion"></Column>
         <Column field="price" className="text-right" header="Precio"></Column>
       </DataTable>
